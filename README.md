@@ -40,6 +40,8 @@ a human making a judgement call.
 function over a snapshot, it is a rule and it lives in the linter where it can
 be tested. Bosun is for heuristics, advice, opinions and to aid in decision making.
 
+**AI features, if any, shall be strictly optional and explicitly opt-in by default.  Consent is foundational.
+
 ## License
 
 Apache-2.0
